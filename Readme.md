@@ -9,3 +9,5 @@ git status
 git blame
 git log
 git diff
+
+It's a very simple system!
