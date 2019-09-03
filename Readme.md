@@ -4,7 +4,7 @@ We used next commands:
 
 `git init`
 
-`git add`
+`git add` -- add comment in future branch
 
 `git commit`
 
@@ -22,6 +22,6 @@ We used next commands:
 
 `git reset`
 
-`git rm`
+`git rm` -- deleting
 
 It's a very simple system!
