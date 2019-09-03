@@ -4,7 +4,7 @@ We used next commands:
 
 git init
 git add
-git commit
+git commit -- add comment
 git status
 git blame
 git log
