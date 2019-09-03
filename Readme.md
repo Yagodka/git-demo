@@ -16,4 +16,12 @@ We used next commands:
 
 `git diff`
 
+`git branch`
+
+`git checkout`
+
+`git reset`
+
+`git rm`
+
 It's a very simple system!
