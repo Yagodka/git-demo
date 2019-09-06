@@ -27,3 +27,5 @@ All conflicts are resolved
 `git rm` -- deleting
 
 It's a very simple system!
+
+Now we'll try to push these changes to github!
