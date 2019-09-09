@@ -12,5 +12,7 @@ class Master {
 
         System.out.println("7"); // For cherry-pick
 
+        System.out.println("8");
+
     }
 }
