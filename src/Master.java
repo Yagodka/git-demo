@@ -10,8 +10,6 @@ class Master {
 
         System.out.println("6");
 
-        System.out.println("7"); // For cherry-pick
-
         System.out.println("8");
 
         System.out.println("9");
