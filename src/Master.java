@@ -10,7 +10,7 @@ class Master {
 
         System.out.println("6");
 
-        System.out.println("8-update in develop");
+        System.out.println("8-update in develop (fix in develop)");
 
         System.out.println("9-update in develop #2");
     }
